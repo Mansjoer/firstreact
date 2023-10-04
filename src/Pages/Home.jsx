@@ -3,7 +3,7 @@ import React from "react";
 export const Home = () => {
   return (
     <>
-      <h1>Ini Home</h1>
+      <h1 className="font-bold text-2xl">Ini Home</h1>
     </>
   );
 };
